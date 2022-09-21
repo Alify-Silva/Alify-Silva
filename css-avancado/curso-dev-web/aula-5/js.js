@@ -1,0 +1,5 @@
+/* ESCOPOS:
+    - GLOBAL
+    - FUNÇÃO
+    - BLOCO
+*/
