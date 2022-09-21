@@ -1,6 +1,6 @@
 ## Olá, eu sou o Alify!
 
-- 👀 Estou interessado em ser um desenvolvedor full stack ou desenvolvedor web
+- 👀 Estou interessado em ser um desenvolvedor front-end ou back-end
 - 🌱 Atualmente estou aprendendo Node JS e React
 - 💞️ Estou interessado em contribuir em pequenos ou grandes projetos.
 - 📫 Contato: alify.alves@hotmail.com
