@@ -15,3 +15,9 @@ function exibirArtigo(id, callbackSucesso, callbackErro){
     exibirArtigo(1, callbackSucesso(), callbackErro());
 
 }
+
+try {
+    
+} catch {
+    
+}
