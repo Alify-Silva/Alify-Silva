@@ -3,7 +3,7 @@
 - 👀 Estou interessado em ser um desenvolvedor front-end ou back-end
 - 🌱 Atualmente estou aprendendo Node JS e React
 - 💞️ Estou interessado em contribuir em pequenos ou grandes projetos.
-- 📫 Contato: alify.alves@hotmail.com
+- 📫 Contato: alify.silva@outlook.com
 
   <div><a href="https://www.linkedin.com/in/alify-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
